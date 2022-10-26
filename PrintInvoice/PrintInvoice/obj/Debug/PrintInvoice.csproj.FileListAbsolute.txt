@@ -1,0 +1,29 @@
+C:\Users\YN\OneDrive\Documents\Visual Studio 2015\Projects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.exe.config
+C:\Users\YN\OneDrive\Documents\Visual Studio 2015\Projects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.exe
+C:\Users\YN\OneDrive\Documents\Visual Studio 2015\Projects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.pdb
+C:\Users\YN\OneDrive\Documents\Visual Studio 2015\Projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.csprojResolveAssemblyReference.cache
+C:\Users\YN\OneDrive\Documents\Visual Studio 2015\Projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.FrmInv.resources
+C:\Users\YN\OneDrive\Documents\Visual Studio 2015\Projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.Properties.Resources.resources
+C:\Users\YN\OneDrive\Documents\Visual Studio 2015\Projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.csproj.GenerateResource.Cache
+C:\Users\YN\OneDrive\Documents\Visual Studio 2015\Projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.exe
+C:\Users\YN\OneDrive\Documents\Visual Studio 2015\Projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.pdb
+D:\my projects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.exe.config
+D:\my projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.exe
+D:\my projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.pdb
+D:\my projects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.exe
+D:\my projects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.pdb
+D:\my projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.csprojResolveAssemblyReference.cache
+D:\my projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.FrmInv.resources
+D:\my projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.Properties.Resources.resources
+D:\my projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.csproj.GenerateResource.Cache
+C:\Users\YN\OneDrive\Desktop\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.exe.config
+C:\Users\YN\OneDrive\Desktop\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.exe
+C:\Users\YN\OneDrive\Desktop\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.pdb
+C:\Users\YN\OneDrive\Desktop\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.exe
+C:\Users\YN\OneDrive\Desktop\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.pdb
+C:\Users\YN\OneDrive\Desktop\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.FrmInv.resources
+C:\Users\YN\OneDrive\Desktop\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.Properties.Resources.resources
+C:\Users\YN\OneDrive\Desktop\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.csproj.GenerateResource.Cache
+C:\Users\YN\OneDrive\Desktop\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.csproj.AssemblyReference.cache
+C:\Users\YN\OneDrive\Desktop\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.csproj.SuggestedBindingRedirects.cache
+C:\Users\YN\OneDrive\Desktop\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.csproj.CoreCompileInputs.cache
